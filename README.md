@@ -17,7 +17,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="tmw-designs_logo.gif" alt=""></td>
+            <td><img src="tmw-designs_logo.gif" alt="">TMoore Walker Logo</td>
             <td><h1>T Moore Walker Designs</h1><p>I am the owner and designer of T Moore Walker Designs</p></td>
         </tr>
     </table>
